@@ -6,8 +6,7 @@ Trying to make sense about this vast universe 🌌 ?
 
 How can we think 🧠 so precisely and find the answers to the things around us, often times the ***exact*** values of physical phenomenon, if things are supposed to be very chaotic and random?
 
-**These are a few questions that intrigue me everyday**... and each day, I try to get one step closer towards finding those answer. 
-(in short lots of day dreaming 💭 lol). I try to explore the vastness of our unknowingness, via constant learning.
+**These are a few questions that intrigue me everyday**... and get me thinking (lots of day dreaming lol)... and each day, I try to get one step closer towards finding those answers. I try to explore the vastness of the stuff we don't know, through constant learning.
 
 **I am currently an undergrad student 🎒, and I am passionate about stuff like Data Science 📈, Artificial Intelligence 👾, Machine Learning 🦾, Mathematics 🧮 and Astrophysics 🪐.**
 
