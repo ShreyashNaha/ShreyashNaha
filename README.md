@@ -19,7 +19,9 @@ Well that's why, my interests lie in the interdisciplinary nature of these subje
 - 🚀 **Physics Knowledge:** Data Driven Astronomy, Computational Astronomy, Spectroscopy.
 - ⚙️ **Tools:** Git, Github, Linux (I use Fedora KDE btw), Jupyter, Google CoLab.
 
-### 👀 Open To Collaborations! Contact me if y'all want to work together, or well for any other cool discussions.
+### 👀 Open To Collaborations! 
+
+Contact me if y'all want to work together, or well for any other cool discussions.
 
 
 
