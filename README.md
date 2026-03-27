@@ -8,9 +8,7 @@ How can we think so precisely and find the answers to the things around us, ofte
 
 **These are a few questions that intrigue me everyday**... and get me thinking (lots of day dreaming lol)... and each day, I try to get one step closer towards finding those answers. I try to explore the vastness of the stuff we don't know, through constant learning.
 
-**I am currently an undergrad student, and I am passionate about stuff like Data Science 📈, Artificial Intelligence 👾, Machine Learning 🦾, Mathematics 💯 and Astrophysics 🪐.**
-
-Well that's why, my interests lie in the interdisciplinary nature of these subjects. You know, kinda like the intersection where multiple concepts of maths, physics and computer science are being used together, to model and simulate problems, trying to find a solution? Yeah... exactly that. I find it very cool!
+**I am currently an undergrad student, and I am passionate about stuff like Data Science 📈, Artificial Intelligence 👾, Machine Learning 🦾, Mathematics 💯 and Astrophysics 🪐.** My interests lie in the interdisciplinary nature of these subjects.
 
 ### 📜 Things I know, or currently working on:
 - 👨🏻‍💻 **Languages:** Python, C/C++, SQL, PL/SQL, MATLAB, Java, HTML, CSS, JS, PHP.
