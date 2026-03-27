@@ -17,11 +17,6 @@ How can we think so precisely and find the answers to the things around us, ofte
 - **Physics Knowledge and Interests:** Data Driven Astronomy, Computational Astrophysics, Spectroscopy.
 - **Tools:** Git, Github, Linux (I use Fedora btw), Jupyter, Google CoLab.
 
-### 👀 Open To Collaborations! 
-
-Contact me if y'all want to work together, or well for any other cool discussions.
-
-
 
 
 
