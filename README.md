@@ -13,7 +13,7 @@ How can we think so precisely and find the answers to the things around us, ofte
 ### Things I know, or currently working on:
 - **Languages:** Python, C/C++, SQL, PL/SQL, MATLAB, Java, HTML, CSS, JS, PHP.
 - **Data Science & ML Stack:** NumPy, Pandas, SciPy, Matplotlib, Seaborn, Scikit-Learn, OpenCV, etc.
-- **Mathematical Knowledge:** Probability and Statistics, Discrete Mathematics, Time Series Analysis and Forecasting, Linear Algebra, Numerical Analysis, Calculus.
+- **Mathematical Knowledge:** Probability and Statistics, Discrete Mathematics, Time Series Analysis and Forecasting, Linear Algebra, Numerical Analysis, Calculus, Mathematical Modelling.
 - **Physics Knowledge and Interests:** Data Driven Astronomy, Computational Astrophysics, Spectroscopy.
 - **Tools:** Git, Github, Linux (I use Fedora btw), Jupyter, Google CoLab.
 
