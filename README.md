@@ -4,7 +4,7 @@ Ever pondered the question... ***Why are we here?*** 🤔
 
 Trying to make sense about this vast universe 🌌 ? 
 
-How can we think 🧠 so precisely and find the answers to the things around us, often times the ***exact*** values of physical phenomenon, if things are supposed to be very chaotic and random?
+How can we think so precisely and find the answers to the things around us, often times the ***exact*** values of physical phenomenon, if things are supposed to be very chaotic and random?
 
 **These are a few questions that intrigue me everyday**... and get me thinking (lots of day dreaming lol)... and each day, I try to get one step closer towards finding those answers. I try to explore the vastness of the stuff we don't know, through constant learning.
 
@@ -12,7 +12,7 @@ How can we think 🧠 so precisely and find the answers to the things around us,
 
 Well that's why, my interests lie in the interdisciplinary nature of these subjects. You know, kinda like the intersection where multiple concepts of maths, physics and computer science are being used together, to model and simulate problems, trying to find a solution? Yeah... exactly that. I find it very cool!
 
-### 🎯 Things I know, or currently working on:
+### 📜 Things I know, or currently working on:
 - 👨🏻‍💻 **Languages:** Python, C/C++, SQL, PL/SQL, MATLAB, Java, HTML, CSS, JS, PHP.
 - 💻 **Data Science & ML Stack:** NumPy, Pandas, SciPy, Matplotlib, Seaborn, Scikit-Learn, OpenCV, etc.
 - 📝 **Mathematical Knowledge:** Probability and Statistics, Discrete Mathematics, Time Series Analysis and Forecasting, Linear Algebra, Numerical Analysis, Calculus.
