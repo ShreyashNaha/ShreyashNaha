@@ -17,7 +17,7 @@ Well that's why, my interests lie in the interdisciplinary nature of these subje
 - 💻 **Data Science & ML Stack:** NumPy, Pandas, SciPy, Matplotlib, Seaborn, Scikit-Learn, OpenCV, etc.
 - 📝 **Mathematical Knowledge:** Probability and Statistics, Discrete Mathematics, Time Series Analysis and Forecasting, Linear Algebra, Numerical Analysis, Calculus.
 - 🚀 **Physics Knowledge:** Data Driven Astronomy, Computational Astronomy, Spectroscopy.
-- ⚙️ **Tools:** Git, Github, Linux (I use Fedora KDE btw), Jupyter, Google CoLab.
+- ⚙️ **Tools:** Git, Github, Linux (I use Fedora btw), Jupyter, Google CoLab.
 
 ### 👀 Open To Collaborations! 
 
